@@ -8,7 +8,7 @@ dependencies:
   - ipyparallel
   - ipywidgets
   - numpy
-  - matplotlib
+  - matplotlib=3.1.1
   - mpi4py
   - networkx
   - pandas
